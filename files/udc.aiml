@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>I do not know</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>I can not login</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>I'm not able to login
+</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>Can't login</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>I get an error when I try to login</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>I can not login</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>Login error</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>I can not signin</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>I'm not able to signin</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>I get an error when I try to signin</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>Can't signin</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>Signin error</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>Can't sign in</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>Can't log in</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>I can not log in</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>I need to update my username</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>How do I update my username</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>username</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>username change</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>change username</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>forgot username</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>i forgot my username</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>user name</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>change my user name</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>change my username</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>new username</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>i do not know</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>i do not know</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>pps</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>ppsn</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>number</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>pps number</pattern>
+    <template>Please fill out the form https://www.fetchcourses.ie/content/GDPR%20Form%202%20Right%20to%20correct%20inaccuracies.pdf
+</template>
+</category>
+<category>
+    <pattern>i forgot my password</pattern>
+    <template>Reset your password at https://www.fetchcourses.ie/account/reset
+</template>
+</category>
+<category>
+    <pattern>password</pattern>
+    <template>Reset your password at https://www.fetchcourses.ie/account/reset
+</template>
+</category>
+<category>
+    <pattern>reset password</pattern>
+    <template>Reset your password at https://www.fetchcourses.ie/account/reset
+</template>
+</category>
+<category>
+    <pattern>resend activate email</pattern>
+    <template>Reset your password at https://www.fetchcourses.ie/account/reset</template>
+</category>
+<category>
+    <pattern>resend email</pattern>
+    <template>Reset your password at https://www.fetchcourses.ie/account/reset</template>
+</category>
+<category>
+    <pattern>email</pattern>
+    <template>Reset your password at https://www.fetchcourses.ie/account/reset</template>
+</category>
+<category>
+    <pattern>i can not remember my password</pattern>
+    <template>Reset your password at https://www.fetchcourses.ie/account/reset</template>
+</category>
+<category>
+    <pattern>i lost my password</pattern>
+    <template>Reset your password at https://www.fetchcourses.ie/account/reset</template>
+</category>
+<category>
+    <pattern>pasword</pattern>
+    <template>Reset your password at https://www.fetchcourses.ie/account/reset</template>
+</category>
+<category>
+    <pattern>pas</pattern>
+    <template>Reset your password at https://www.fetchcourses.ie/account/reset</template>
+</category>
+<category>
+    <pattern>pass </pattern>
+    <template>Reset your password at https://www.fetchcourses.ie/account/reset</template>
+</category>
+<category>
+    <pattern>word</pattern>
+    <template>Reset your password at https://www.fetchcourses.ie/account/reset</template>
+</category>
+<category>
+    <pattern>resend</pattern>
+    <template>Reset your password at https://www.fetchcourses.ie/account/reset</template>
+</category>
+<category>
+    <pattern>send</pattern>
+    <template>Reset your password at https://www.fetchcourses.ie/account/reset</template>
+</category>
+<category>
+    <pattern>pass word</pattern>
+    <template>Reset your password at https://www.fetchcourses.ie/account/reset</template>
+</category>
+<category>
+    <pattern>pas word</pattern>
+    <template>Reset your password at https://www.fetchcourses.ie/account/reset</template>
+</category>
+<category>
+    <pattern>is my data safe </pattern>
+    <template>We do not access social media and will never sell data. Please see https://www.fetchcourses.ie/courses/privacy
+</template>
+</category>
+<category>
+    <pattern>do you sell data </pattern>
+    <template>We do not access social media and will never sell data. Please see https://www.fetchcourses.ie/courses/privacy
+
+
+
+</template>
+</category>
+<category>
+    <pattern>do u sell data </pattern>
+    <template>We do not access social media and will never sell data. Please see https://www.fetchcourses.ie/courses/privacy
+
+</template>
+</category>
+<category>
+    <pattern>data</pattern>
+    <template>We do not access social media and will never sell data. Please see https://www.fetchcourses.ie/courses/privacy
+
+</template>
+</category>
+<category>
+    <pattern>personal</pattern>
+    <template>We do not access social media and will never sell data. Please see https://www.fetchcourses.ie/courses/privacy
+</template>
+</category>
+<category>
+    <pattern>details</pattern>
+    <template>We do not access social media and will never sell data. Please see https://www.fetchcourses.ie/courses/privacy
+</template>
+</category>
+<category>
+    <pattern>personal details</pattern>
+    <template>We do not access social media and will never sell data. Please see https://www.fetchcourses.ie/courses/privacy
+</template>
+</category>
+<category>
+    <pattern>will u sell my personal details </pattern>
+    <template>We do not access social media and will never sell data. Please see https://www.fetchcourses.ie/courses/privacy
+</template>
+</category>
+<category>
+    <pattern>i am worried about my data privacy</pattern>
+    <template>We do not access social media and will never sell data. Please see https://www.fetchcourses.ie/courses/privacy
+</template>
+</category>
+<category>
+    <pattern>gdpr</pattern>
+    <template>We do not access social media and will never sell data. Please see https://www.fetchcourses.ie/courses/privacy
+</template>
+</category>
+<category>
+    <pattern>do you adhere to gdpr </pattern>
+    <template>We do not access social media and will never sell data. Please see https://www.fetchcourses.ie/courses/privacy
+</template>
+</category>
+<category>
+    <pattern>do u adhere to GDPR </pattern>
+    <template>We do not access social media and will never sell data. Please see https://www.fetchcourses.ie/courses/privacy
+</template>
+</category>
+<category>
+    <pattern>will u sell my private data </pattern>
+    <template>We do not access social media and will never sell data. Please see https://www.fetchcourses.ie/courses/privacy
+</template>
+</category>
+<category>
+    <pattern>sell</pattern>
+    <template>We do not access social media and will never sell data. Please see https://www.fetchcourses.ie/courses/privacy
+</template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
